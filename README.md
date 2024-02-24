@@ -4,10 +4,7 @@ To View my analysis <a href="https://www.kaggle.com/datasets/prajwaldongre/ipl-p
 
 For this project, I have analyzed the loan applicant data from <a href="https://www.kaggle.com/datasets/yaminh/applicant-details-for-loan-approve" target="_blank">Kaggle</a>.
 
+
 # Tools Used
-1) Python
-<ol>Panda</ol>
-<ol>Numpy</ol> 
-<ol>Matplotlib</ol>
-<ol>Seaborn</ol>
-3) CSV files
+1) Python - Panda, Numpy, Matplotlib, Seaborn
+2) CSV files
