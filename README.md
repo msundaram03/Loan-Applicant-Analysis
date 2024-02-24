@@ -6,6 +6,8 @@ For this project, I have analyzed the loan applicant data from <a href="https://
 
 # Tools Used
 1) Python
-<ul>Panda</ul>ul>
-Numpy, Matplotlib, Seaborn
+<ol>Panda</ol>
+<ol>Numpy</ol> 
+<ol>Matplotlib</ol>
+<ol>Seaborn</ol>
 3) CSV files
