@@ -3,3 +3,9 @@ The loan applicant data provides a comprehensive overview of individuals seeking
 To View my analysis <a href="https://www.kaggle.com/datasets/prajwaldongre/ipl-players-sold-2024/" target="_blank">Click Here</a>.
 
 For this project, I have analyzed the loan applicant data from <a href="https://www.kaggle.com/datasets/yaminh/applicant-details-for-loan-approve" target="_blank">Kaggle</a>.
+
+# Tools Used
+1) Python
+<ul>Panda</ul>ul>
+Numpy, Matplotlib, Seaborn
+3) CSV files
